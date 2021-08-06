@@ -1,0 +1,15 @@
+{
+  "name": "currying",
+  "version": "1.0.0",
+  "description": "",
+  "main": "currying.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
